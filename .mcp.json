@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dexto": {
+      "type": "http",
+      "url": "https://app.dexto.ai/mcp"
+    }
+  }
+}

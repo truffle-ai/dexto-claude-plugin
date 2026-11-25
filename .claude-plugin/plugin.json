@@ -1,0 +1,14 @@
+{
+  "name": "dexto",
+  "version": "1.0.0",
+  "description": "Connect Claude Code to your Dexto workspace.",
+  "author": {
+    "name": "Truffle AI",
+    "email": "support@dexto.ai",
+    "url": "https://www.dexto.ai"
+  },
+  "homepage": "https://www.dexto.ai/docs/mcp/",
+  "repository": "https://github.com/truffle-ai/dexto-claude-plugin",
+  "license": "MIT",
+  "keywords": ["dexto", "workspace", "agents", "productivity"]
+}
